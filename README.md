@@ -15,10 +15,14 @@ Welcome to SQL Fundamentals! This repository contains the basics of SQL querying
 - [License](#license)
 - [Credits](#credits)
 
+
+
 ## Installation
 To get started, clone the repository:
 ```bash
 git clone https://github.com/nujabesploo/SQLFundamentals.git
+
+
 ```
 
 ## Usage
